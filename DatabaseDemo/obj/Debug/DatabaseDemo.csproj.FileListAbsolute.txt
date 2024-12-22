@@ -1,0 +1,21 @@
+D:\WDUN\DatabaseDemo\bin\DatabaseDemo.dll.config
+D:\WDUN\DatabaseDemo\bin\DatabaseDemo.dll
+D:\WDUN\DatabaseDemo\bin\DatabaseDemo.pdb
+D:\WDUN\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.AssemblyReference.cache
+D:\WDUN\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.CoreCompileInputs.cache
+D:\WDUN\DatabaseDemo\obj\Debug\DatabaseDemo.dll
+D:\WDUN\DatabaseDemo\obj\Debug\DatabaseDemo.pdb
+E:\2 - LabWork\NET\DatabaseDemo\bin\DatabaseDemo.dll.config
+E:\2 - LabWork\NET\DatabaseDemo\bin\DatabaseDemo.dll
+E:\2 - LabWork\NET\DatabaseDemo\bin\DatabaseDemo.pdb
+E:\2 - LabWork\NET\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.AssemblyReference.cache
+E:\2 - LabWork\NET\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.CoreCompileInputs.cache
+E:\2 - LabWork\NET\DatabaseDemo\obj\Debug\DatabaseDemo.dll
+E:\2 - LabWork\NET\DatabaseDemo\obj\Debug\DatabaseDemo.pdb
+E:\LabWork\NET\DatabaseDemo\bin\DatabaseDemo.dll.config
+E:\LabWork\NET\DatabaseDemo\bin\DatabaseDemo.dll
+E:\LabWork\NET\DatabaseDemo\bin\DatabaseDemo.pdb
+E:\LabWork\NET\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.AssemblyReference.cache
+E:\LabWork\NET\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.CoreCompileInputs.cache
+E:\LabWork\NET\DatabaseDemo\obj\Debug\DatabaseDemo.dll
+E:\LabWork\NET\DatabaseDemo\obj\Debug\DatabaseDemo.pdb
